@@ -1,166 +1,118 @@
-<!-- typing animation header -->
+# Hey, I'm Milo 👋
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=800&lines=printf%20%22Hello%2C%20World%22;Full-Stack%20%7C%20AI%20%7C%20Robotics;Building%20the%20future%2C%20one%20commit%20at%20a%20time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&width=700&lines=AI+Agents+%E2%80%A2+Python+%E2%80%A2+Rust+%E2%80%A2+Robotics+%E2%80%A2+Self-Hosted" alt="Typing SVG" />
 </p>
 
-<!-- Social Links -->
 <p align="center">
-  <a href="https://github.com/miloquinn"><img src="https://img.shields.io/badge/-?style=social&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://t.me/miloquinn"><img src="https://img.shields.io/badge/-?style=social&logo=telegram&logoColor=white" alt="Telegram" /></a>
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/-?style=social&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=cpp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=latex&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=markdown&logoColor=white" />
-</p>
-
-### DevOps & Infrastructure
-<p align="center">
-  <img src="https://img.shields.io/badge/-?style=social&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=tailscale&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=home-assistant&logoColor=white" />
-</p>
-
-### AI & Machine Learning
-<p align="center">
-  <img src="https://img.shields.io/badge/-?style=social&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=obsidian&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=jax&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=qml&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=raspberrypi&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=neovim&logoColor=white" />
-</p>
-
-### Developer Tools & IDEs
-<p align="center">
-  <img src="https://img.shields.io/badge/-?style=social&logo=vscodium&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=pycharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=tmux&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=kitty&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=homebrew&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=svelte&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=deno&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=threedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=netlify&logoColor=white" />
-</p>
-
-### Version Control & Collaboration
-<p align="center">
-  <img src="https://img.shields.io/badge/-?style=social&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=linear&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=discord&logoColor=white" />
-</p>
-
-### Operating Systems & Platforms
-<p align="center">
-  <img src="https://img.shields.io/badge/-?style=social&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=debian&logoColor=white" />
-  <img src="https://img.shields.io/badge/-?style=social&logo=solidworks&logoColor=white" />
+  <a href="https://github.com/miloquinn"><img height="28" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" /></a>
+  <a href="https://t.me/miloquinn"><img height="28" src="https://simpleicons.org/icons/telegram.svg" /></a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-ten.vercel.app/api?username=miloquinn&theme=dark&hide_border=true&cache_seconds=3600" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-ten.vercel.app/api/top-langs/?username=miloquinn&theme=dark&hide_border=true&layout=compact&cache_seconds=3600" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miloquinn&theme=github-dark-dimmed&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
-## 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=miloquinn&theme=github-dark-dimmed&cache_seconds=3600" alt="Activity Graph" />
-
----
-
-## 🏆 Featured Projects
+## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/KeloYuan/Niki-AI">
-    <img src="https://github-readme-stats-ten.vercel.app/api/pin/?username=KeloYuan&repo=Niki-AI&theme=dark&hide_border=true" alt="Niki-AI" />
-  </a>
-  <a href="https://github.com/KeloYuan/Origo-Reader">
-    <img src="https://github-readme-stats-ten.vercel.app/api/pin/?username=KeloYuan&repo=Origo-Reader&theme=dark&hide_border=true" alt="Origo-Reader" />
-  </a>
-  <a href="https://github.com/KeloYuan/xxCode">
-    <img src="https://github-readme-stats-ten.vercel.app/api/pin/?username=KeloYuan&repo=xxCode&theme=dark&hide_border=true" alt="xxCode" />
-  </a>
+  <img src="https://github-readme-stats-ten.vercel.app/api?username=miloquinn&show_icons=true&theme=github_dark_dimmed&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
 </p>
 
 ---
 
-## 🌟 Open Source Highlights
+## 🚀 Featured Projects
 
-| Project | Description | Stars |
-|---------|-------------|-------|
-| [Niki-AI](https://github.com/KeloYuan/Niki-AI) | AI-powered assistant | ⭐ |
-| [Origo-Reader](https://github.com/KeloYuan/Origo-Reader) | Document reader | ⭐ |
-| [xxCode](https://github.com/KeloYuan/xxCode) | Code utilities | ⭐ |
+<p align="center">
+<a href="https://github.com/KeloYuan/Niki-AI">
+<img align="center" src="https://github-readme-stats-ten.vercel.app/api/pin/?username=miloquinn&repo=Niki-AI&theme=github_dark_dimmed&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Niki-AI">
+</a>
+<a href="https://github.com/KeloYuan/Origo-Reader">
+<img align="center" src="https://github-readme-stats-ten.vercel.app/api/pin/?username=miloquinn&repo=Origo-Reader&theme=github_dark_dimmed&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Origo-Reader">
+</a>
+<a href="https://github.com/KeloYuan/xxCode">
+<img align="center" src="https://github-readme-stats-ten.vercel.app/api/pin/?username=miloquinn&repo=xxCode&theme=github_dark_dimmed&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="xxCode">
+</a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/go/go.png" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/swift/swift.png" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/kotlin/kotlin.png" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/lua/lua.png" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/nix/nix.png" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/kubernetes/kubernetes.png" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/nginx/nginx.png" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/redis/redis.png" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/sqlite/sqlite.png" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/svelte/svelte.png" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/deno/deno.png" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/fastapi/fastapi.png" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/arduino/arduino.png" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/nvidia/nvidia.png" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/cloudflare/cloudflare.png" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/ansible/ansible.png" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/neovim/neovim.png" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/pycharm/pycharm.png" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/gitlab/gitlab.png" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/unity/unity.png" />
+</p>
+
+---
+
+## 🏆 Open Source Highlights
+
+| Project | ⭐ | Description |
+|:--------|:---:|:-----------|
+| [Niki-AI](https://github.com/KeloYuan/Niki-AI) | 54 | Obsidian plugin — chat with Claude Code in sidebar, AI-assisted note editing |
+| [Origo-Reader](https://github.com/KeloYuan/Origo-Reader) | 16 | Smart reading app with AI summarization and annotation |
+| [xxCode](https://github.com/KeloYuan/xxCode) | 4 | Next-gen code generation and refactoring toolkit |
 
 ---
 
 ## 🔗 Connect
 
 <p align="center">
-  <a href="https://github.com/miloquinn"><img src="https://img.shields.io/badge/-?style=social&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://t.me/miloquinn"><img src="https://img.shields.io/badge/-?style=social&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://github.com/miloquinn">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://t.me/miloquinn">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 </p>
-
----
