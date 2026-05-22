@@ -74,17 +74,14 @@
 
 ---
 
-## 🏆 Contribution History
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/miloquinn/miloquinn/main/profile-summary-card-output/default/1-repos-per-language.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/miloquinn/miloquinn/main/profile-summary-card-output/default/2-most-commit-language.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/miloquinn/miloquinn/main/profile-summary-card-output/default/3-stats.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/miloquinn/miloquinn/main/profile-summary-card-output/default/4-productive-time.svg#gh-dark-mode-only" />
+  <img src="https://github-profile-trophy.vercel.app/?username=miloquinn&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="Trophy" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=miloquinn&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="Trophy">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=miloquinn&theme=github-dark-dimmed&background=0D1117&border=30363D&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&startDate=2023-01-01&endDate=2026-01-01" alt="Streak Stats" />
 </p>
 
 ---
@@ -99,11 +96,3 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miloquinn&theme=github-dark-dimmed&background=0D1117&border=30363D&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=58A6FF&currStreakNum=C9D1D9&sideLabels=C9D1D9&startDate=2023-01-01&endDate=2026-01-01&type=tx" alt="Streak Stats" />
-</p>
-
-![Snake eating contributions](https://raw.githubusercontent.com/miloquinn/miloquinn/master/github-contribution-grid-snake.svg)
