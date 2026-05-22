@@ -47,55 +47,27 @@
 
 ## 💻 Tech Stack
 
-### 🤖 AI & LLM
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Claude%20Code-58A6FF?style=flat-square&logo=anthropic" />
-  <img src="https://img.shields.io/badge/-DeepSeek-58A6FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Grok-58A6FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Hermes%20Agent-58A6FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/-MiniMax-58A6FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Ollama-58A6FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/-vLLM-58A6FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/-DSPy-58A6FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Hugging%20Face-58A6FF?style=flat-square&logo=huggingface" />
-  <img src="https://img.shields.io/badge/-Transformers-58A6FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Axolotl-58A6FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/-TRL-58A6FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/-llama.cpp-58A6FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/-OpenAI-58A6FF?style=flat-square&logo=openai" />
-  <img src="https://img.shields.io/badge/-Cursor-58A6FF?style=flat-square&logo=cursor" />
-  <img src="https://img.shields.io/badge/-Obsidian-58A6FF?style=flat-square&logo=obsidian" />
-</p>
-
-### 🐍 Languages
-
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-58A6FF?style=flat-square&logo=python" />
   <img src="https://img.shields.io/badge/-TypeScript-58A6FF?style=flat-square&logo=typescript" />
   <img src="https://img.shields.io/badge/-Rust-58A6FF?style=flat-square&logo=rust" />
-  <img src="https://img.shields.io/badge/-ArkTS-58A6FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Bash-58A6FF?style=flat-square&logo=gnubash" />
-  <img src="https://img.shields.io/badge/-Lua-58A6FF?style=flat-square&logo=lua" />
-  <img src="https://img.shields.io/badge/-C-58A6FF?style=flat-square&logo=c" />
-  <img src="https://img.shields.io/badge/-C++-58A6FF?style=flat-square&logo=cplusplus" />
   <img src="https://img.shields.io/badge/-Go-58A6FF?style=flat-square&logo=go" />
   <img src="https://img.shields.io/badge/-Swift-58A6FF?style=flat-square&logo=swift" />
   <img src="https://img.shields.io/badge/-Kotlin-58A6FF?style=flat-square&logo=kotlin" />
   <img src="https://img.shields.io/badge/-Dart-58A6FF?style=flat-square&logo=dart" />
   <img src="https://img.shields.io/badge/-Zig-58A6FF?style=flat-square&logo=zig" />
+  <img src="https://img.shields.io/badge/-C-58A6FF?style=flat-square&logo=c" />
+  <img src="https://img.shields.io/badge/-C++-58A6FF?style=flat-square&logo=cplusplus" />
   <img src="https://img.shields.io/badge/-JavaScript-58A6FF?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-HTML5-58A6FF?style=flat-square&logo=html5" />
   <img src="https://img.shields.io/badge/-CSS3-58A6FF?style=flat-square&logo=css3" />
   <img src="https://img.shields.io/badge/-LaTeX-58A6FF?style=flat-square&logo=latex" />
   <img src="https://img.shields.io/badge/-Markdown-58A6FF?style=flat-square&logo=markdown" />
+  <img src="https://img.shields.io/badge/-Bash-58A6FF?style=flat-square&logo=gnubash" />
+  <img src="https://img.shields.io/badge/-Lua-58A6FF?style=flat-square&logo=lua" />
   <img src="https://img.shields.io/badge/-Nix-58A6FF?style=flat-square&logo=nix" />
   <img src="https://img.shields.io/badge/-Cython-58A6FF?style=flat-square" />
-</p>
-
-### ⚙️ Infrastructure & DevOps
-
-<p align="center">
+  <img src="https://img.shields.io/badge/-ArkTS-58A6FF?style=flat-square" />
   <img src="https://img.shields.io/badge/-Docker-58A6FF?style=flat-square&logo=docker" />
   <img src="https://img.shields.io/badge/-Kubernetes-58A6FF?style=flat-square&logo=kubernetes" />
   <img src="https://img.shields.io/badge/-Nginx-58A6FF?style=flat-square&logo=nginx" />
@@ -114,70 +86,55 @@
   <img src="https://img.shields.io/badge/-Terraform-58A6FF?style=flat-square&logo=terraform" />
   <img src="https://img.shields.io/badge/-Home%20Assistant-58A6FF?style=flat-square&logo=homeassistant" />
   <img src="https://img.shields.io/badge/-Mattermost-58A6FF?style=flat-square&logo=mattermost" />
-</p>
-
-### 🦾 Robotics & Simulation
-
-<p align="center">
+  <img src="https://img.shields.io/badge/-Claude%20Code-58A6FF?style=flat-square&logo=anthropic" />
+  <img src="https://img.shields.io/badge/-OpenAI-58A6FF?style=flat-square&logo=openai" />
+  <img src="https://img.shields.io/badge/-Cursor-58A6FF?style=flat-square&logo=cursor" />
+  <img src="https://img.shields.io/badge/-Obsidian-58A6FF?style=flat-square&logo=obsidian" />
+  <img src="https://img.shields.io/badge/-Hugging%20Face-58A6FF?style=flat-square&logo=huggingface" />
+  <img src="https://img.shields.io/badge/-Ollama-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/-vLLM-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/-llama.cpp-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/-PyTorch-58A6FF?style=flat-square&logo=pytorch" />
+  <img src="https://img.shields.io/badge/-JAX-58A6FF?style=flat-square" />
   <img src="https://img.shields.io/badge/-Isaac%20Sim-58A6FF?style=flat-square" />
   <img src="https://img.shields.io/badge/-MuJoCo-58A6FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Unitree%20RL%20Gym-58A6FF?style=flat-square" />
   <img src="https://img.shields.io/badge/-Isaac%20Lab-58A6FF?style=flat-square" />
   <img src="https://img.shields.io/badge/-ROS2-58A6FF?style=flat-square" />
   <img src="https://img.shields.io/badge/-CUDA-58A6FF?style=flat-square&logo=nvidia" />
-  <img src="https://img.shields.io/badge/-PyTorch-58A6FF?style=flat-square&logo=pytorch" />
-  <img src="https://img.shields.io/badge/-JAX-58A6FF?style=flat-square" />
   <img src="https://img.shields.io/badge/-TensorRT-58A6FF?style=flat-square" />
   <img src="https://img.shields.io/badge/-ONNX-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Unitree%20RL-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Gazebo-58A6FF?style=flat-square" />
   <img src="https://img.shields.io/badge/-Qt-58A6FF?style=flat-square&logo=qt" />
   <img src="https://img.shields.io/badge/-Arduino-58A6FF?style=flat-square&logo=arduino" />
   <img src="https://img.shields.io/badge/-Raspberry%20Pi-58A6FF?style=flat-square&logo=raspberrypi" />
-  <img src="https://img.shields.io/badge/-Open3D-58A6FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Gazebo-58A6FF?style=flat-square" />
-</p>
-
-### 🖥️ Tools & IDEs
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-SolidWorks-58A6FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/-DevEco%20Studio-58A6FF?style=flat-square" />
   <img src="https://img.shields.io/badge/-Blender-58A6FF?style=flat-square&logo=blender" />
   <img src="https://img.shields.io/badge/-Neovim-58A6FF?style=flat-square&logo=neovim" />
-  <img src="https://img.shields.io/badge/-Vercel-58A6FF?style=flat-square&logo=vercel" />
+  <img src="https://img.shields.io/badge/-VS%20Code-58A6FF?style=flat-square&logo=visualstudiocode" />
+  <img src="https://img.shields.io/badge/-PyCharm-58A6FF?style=flat-square&logo=pycharm" />
+  <img src="https://img.shields.io/badge/-Tmux-58A6FF?style=flat-square&logo=tmux" />
+  <img src="https://img.shields.io/badge/-Warp-58A6FF?style=flat-square&logo=warp" />
+  <img src="https://img.shields.io/badge/-Homebrew-58A6FF?style=flat-square&logo=homebrew" />
   <img src="https://img.shields.io/badge/-FastAPI-58A6FF?style=flat-square&logo=fastapi" />
   <img src="https://img.shields.io/badge/-Flask-58A6FF?style=flat-square&logo=flask" />
   <img src="https://img.shields.io/badge/-Prisma-58A6FF?style=flat-square&logo=prisma" />
-  <img src="https://img.shields.io/badge/-Three.js-58A6FF?style=flat-square&logo=threedotjs" />
   <img src="https://img.shields.io/badge/-Svelte-58A6FF?style=flat-square&logo=svelte" />
   <img src="https://img.shields.io/badge/-React-58A6FF?style=flat-square&logo=react" />
   <img src="https://img.shields.io/badge/-Vue-58A6FF?style=flat-square&logo=vuedotjs" />
   <img src="https://img.shields.io/badge/-Node.js-58A6FF?style=flat-square&logo=nodedotjs" />
   <img src="https://img.shields.io/badge/-Vite-58A6FF?style=flat-square&logo=vite" />
   <img src="https://img.shields.io/badge/-Deno-58A6FF?style=flat-square&logo=deno" />
+  <img src="https://img.shields.io/badge/-Three.js-58A6FF?style=flat-square&logo=threedotjs" />
+  <img src="https://img.shields.io/badge/-Vercel-58A6FF?style=flat-square&logo=vercel" />
+  <img src="https://img.shields.io/badge/-Netlify-58A6FF?style=flat-square&logo=netlify" />
   <img src="https://img.shields.io/badge/-Git-58A6FF?style=flat-square&logo=git" />
   <img src="https://img.shields.io/badge/-GitHub-58A6FF?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/-VS%20Code-58A6FF?style=flat-square&logo=visualstudiocode" />
-  <img src="https://img.shields.io/badge/-PyCharm-58A6FF?style=flat-square&logo=pycharm" />
-  <img src="https://img.shields.io/badge/-Tmux-58A6FF?style=flat-square&logo=tmux" />
-  <img src="https://img.shields.io/badge/-Discord-58A6FF?style=flat-square&logo=discord" />
-  <img src="https://img.shields.io/badge/-Warp-58A6FF?style=flat-square&logo=warp" />
-  <img src="https://img.shields.io/badge/-Homebrew-58A6FF?style=flat-square&logo=homebrew" />
   <img src="https://img.shields.io/badge/-Linear-58A6FF?style=flat-square&logo=linear" />
   <img src="https://img.shields.io/badge/-Figma-58A6FF?style=flat-square&logo=figma" />
   <img src="https://img.shields.io/badge/-Notion-58A6FF?style=flat-square&logo=notion" />
+  <img src="https://img.shields.io/badge/-Discord-58A6FF?style=flat-square&logo=discord" />
   <img src="https://img.shields.io/badge/-CMake-58A6FF?style=flat-square" />
   <img src="https://img.shields.io/badge/-Gradle-58A6FF?style=flat-square&logo=gradle" />
-</p>
-
-### ☁️ Cloud & Deployment
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-VPS-58A6FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/-SSH-58A6FF?style=flat-square&logo=ssh" />
-  <img src="https://img.shields.io/badge/-Systemd-58A6FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Cloudflare%20Workers-58A6FF?style=flat-square&logo=cloudflare" />
-  <img src="https://img.shields.io/badge/-Netlify-58A6FF?style=flat-square&logo=netlify" />
-  <img src="https://img.shields.io/badge/-Cloudflare%20Pages-58A6FF?style=flat-square&logo=cloudflare" />
   <img src="https://img.shields.io/badge/-Linux-58A6FF?style=flat-square&logo=linux" />
   <img src="https://img.shields.io/badge/-macOS-58A6FF?style=flat-square&logo=apple" />
   <img src="https://img.shields.io/badge/-Ubuntu-58A6FF?style=flat-square&logo=ubuntu" />
@@ -185,11 +142,23 @@
   <img src="https://img.shields.io/badge/-FreeBSD-58A6FF?style=flat-square" />
   <img src="https://img.shields.io/badge/-Docker%20Compose-58A6FF?style=flat-square&logo=docker" />
   <img src="https://img.shields.io/badge/-UFW-58A6FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Let's%20Encrypt-58A6FF?style=flat-square" />
   <img src="https://img.shields.io/badge/-NPM-58A6FF?style=flat-square&logo=npm" />
   <img src="https://img.shields.io/badge/-Yarn-58A6FF?style=flat-square&logo=yarn" />
   <img src="https://img.shields.io/badge/-PNPM-58A6FF?style=flat-square&logo=pnpm" />
   <img src="https://img.shields.io/badge/-Poetry-58A6FF?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/-SSH-58A6FF?style=flat-square&logo=ssh" />
+  <img src="https://img.shields.io/badge/-Systemd-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Let's%20Encrypt-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/-SolidWorks-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/-DevEco%20Studio-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/-DSPy-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Axolotl-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/-TRL-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Open3D-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Hermes%20Agent-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/-MiniMax-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/-DeepSeek-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Grok-58A6FF?style=flat-square" />
 </p>
 
 ---
