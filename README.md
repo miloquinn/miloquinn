@@ -31,13 +31,13 @@
 
 <p align="center">
 <a href="https://github.com/KeloYuan/Niki-AI">
-<img align="center" src="https://github-readme-stats-ten.vercel.app/api/pin/?username=miloquinn&repo=Niki-AI&theme=github_dark_dimmed&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Niki-AI">
+<img align="center" src="https://github-readme-stats-ten.vercel.app/api/pin/?username=KeloYuan&repo=Niki-AI&theme=github_dark_dimmed&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Niki-AI">
 </a>
 <a href="https://github.com/KeloYuan/Origo-Reader">
-<img align="center" src="https://github-readme-stats-ten.vercel.app/api/pin/?username=miloquinn&repo=Origo-Reader&theme=github_dark_dimmed&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Origo-Reader">
+<img align="center" src="https://github-readme-stats-ten.vercel.app/api/pin/?username=KeloYuan&repo=Origo-Reader&theme=github_dark_dimmed&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Origo-Reader">
 </a>
 <a href="https://github.com/KeloYuan/xxCode">
-<img align="center" src="https://github-readme-stats-ten.vercel.app/api/pin/?username=miloquinn&repo=xxCode&theme=github_dark_dimmed&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="xxCode">
+<img align="center" src="https://github-readme-stats-ten.vercel.app/api/pin/?username=KeloYuan&repo=xxCode&theme=github_dark_dimmed&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="xxCode">
 </a>
 </p>
 
