@@ -30,14 +30,14 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-<a href="https://github.com/KeloYuan/Niki-AI">
-<img align="center" src="https://github-readme-stats-ten.vercel.app/api/pin/?username=KeloYuan&repo=Niki-AI&theme=github_dark_dimmed&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Niki-AI">
+<a href="https://github.com/miloquinn/open-reading">
+<img align="center" src="https://github-readme-stats-ten.vercel.app/api/pin/?username=miloquinn&repo=open-reading&theme=github_dark_dimmed&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Open Reading">
 </a>
-<a href="https://github.com/KeloYuan/Origo-Reader">
-<img align="center" src="https://github-readme-stats-ten.vercel.app/api/pin/?username=KeloYuan&repo=Origo-Reader&theme=github_dark_dimmed&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Origo-Reader">
+<a href="https://github.com/miloquinn/open-reading-source-protocol">
+<img align="center" src="https://github-readme-stats-ten.vercel.app/api/pin/?username=miloquinn&repo=open-reading-source-protocol&theme=github_dark_dimmed&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Open Reading Source Protocol">
 </a>
-<a href="https://github.com/KeloYuan/xxCode">
-<img align="center" src="https://github-readme-stats-ten.vercel.app/api/pin/?username=KeloYuan&repo=xxCode&theme=github_dark_dimmed&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="xxCode">
+<a href="https://github.com/miloquinn/orsp-converter">
+<img align="center" src="https://github-readme-stats-ten.vercel.app/api/pin/?username=miloquinn&repo=orsp-converter&theme=github_dark_dimmed&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="ORSP Converter">
 </a>
 </p>
 
@@ -100,9 +100,9 @@
 
 | Project | ⭐ | Description |
 |:--------|:---:|:-----------|
-| [Niki-AI](https://github.com/KeloYuan/Niki-AI) | 54 | Obsidian plugin — chat with Claude Code in sidebar, AI-assisted note editing |
-| [Origo-Reader](https://github.com/KeloYuan/Origo-Reader) | 16 | Smart reading app with AI summarization and annotation |
-| [xxCode](https://github.com/KeloYuan/xxCode) | 4 | Next-gen code generation and refactoring toolkit |
+| [Open Reading](https://github.com/miloquinn/open-reading) | ![Open Reading stars](https://img.shields.io/github/stars/miloquinn/open-reading?style=flat-square&label=stars) | Local-first, cross-platform ebook reader with open book sources and a native Flutter reading engine |
+| [Open Reading Source Protocol](https://github.com/miloquinn/open-reading-source-protocol) | ![Open Reading Source Protocol stars](https://img.shields.io/github/stars/miloquinn/open-reading-source-protocol?style=flat-square&label=stars) | Open protocol, schemas, OpenAPI specification, and reference server for interoperable book sources |
+| [ORSP Converter](https://github.com/miloquinn/orsp-converter) | ![ORSP Converter stars](https://img.shields.io/github/stars/miloquinn/orsp-converter?style=flat-square&label=stars) | Converts book-source JSON rules into Open Reading Source Protocol endpoints |
 
 ---
 
